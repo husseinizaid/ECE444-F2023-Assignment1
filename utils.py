@@ -10,7 +10,7 @@ class utils:
                 number = number // 10
             return reversed
         else:
-            return "Please type an integer!"
+            return "Please type an integer as your input!"
         
 
     def formatter(number):
@@ -18,6 +18,6 @@ class utils:
             number = int(number)
             return (bin(number), oct(number))
         else:
-            return "Please type an integer!"
+            return "Please type an integer as your input!"
 
 
