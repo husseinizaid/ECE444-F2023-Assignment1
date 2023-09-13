@@ -6,4 +6,5 @@
 ## Activity 3
 ![image](https://github.com/husseinizaid/ECE444-F2023-Assignment1/assets/144946719/153cb13d-374f-4151-8cfb-bc3e4dc69a87)
 ## Activity 4
-![image](https://github.com/husseinizaid/ECE444-F2023-Assignment1/assets/144946719/7066f83b-8f0a-4ba5-aae0-ffe0e64ec769)
+![image](https://github.com/husseinizaid/ECE444-F2023-Assignment1/assets/144946719/dbb1a219-26b9-414b-986e-77d92b3b3b19)
+
